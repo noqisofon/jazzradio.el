@@ -1,3 +1,12 @@
-*.FASL
-*.fasl
-*.lisp-temp
+# -*- coding: utf-8; mode: gitignore; -*-
+# 
+# .gitignore
+# 
+
+# Emacs temporary files
+*~
+\#*#
+
+
+# Emacs lisp compliled files
+*.elc
